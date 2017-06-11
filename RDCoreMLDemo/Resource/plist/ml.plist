@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>线性回归-房价预测(一元，只有面积)</string>
+		<key>className</key>
+		<string>HousePricer</string>
+		<key>vcName</key>
+		<string>HousePricerViewController</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>线性回归-房价预测(apple demo)</string>
+		<key>className</key>
+		<string>MarsHabitaPricer</string>
+		<key>vcName</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>GoogLeNetPlaces</string>
+		<key>className</key>
+		<string>GoogLeNetPlaces</string>
+		<key>vcName</key>
+		<string></string>
+	</dict>
+</array>
+</plist>
